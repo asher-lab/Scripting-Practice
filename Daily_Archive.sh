@@ -14,7 +14,7 @@ FILE=archive$DATE.tar.gz
 #
 # Set Configuration and Destination File
 #
-CONFIG_FILE=/archive/files_to_backup
+CONFIG_FILE=/archive/Files_To_Backup
 DESTINATION=/archive/$FILE
 #
 ##################### Main Script ##########################
